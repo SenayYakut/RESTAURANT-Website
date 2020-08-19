@@ -2,6 +2,12 @@
 
 * Build a fullstack website for a local Restaurant
 
+## NAME
+TODO
+
+## Features 
+TODO
+
 ## Built With
 * HTML5
 * CSS3
