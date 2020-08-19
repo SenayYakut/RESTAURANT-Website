@@ -20,7 +20,7 @@
 ## Copyright & License
  TODO
  
-# DEMO
+## DEMO
 * A short video presentation of the project 
  TODO
 
