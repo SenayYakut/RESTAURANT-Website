@@ -19,6 +19,7 @@ TODO
 * Ajax
 * JSON 
 * SQL
+* Flask/Django
 
 ## Author
 <a href="https://www.linkedin.com/in/senaykt/">Senay Yakut</a>
