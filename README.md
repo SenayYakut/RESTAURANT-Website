@@ -21,6 +21,7 @@ TODO
 * JSON 
 * SQL
 * Flask/Django
+* AWS
 
 ## Author
 <a href="https://www.linkedin.com/in/senaykt/">Senay Yakut</a>
