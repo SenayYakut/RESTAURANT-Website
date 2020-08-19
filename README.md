@@ -18,6 +18,10 @@
 <a href="https://www.linkedin.com/in/senaykt/">Senay Yakut</a>
 
 ## Copyright & License
-
+ TODO
+ 
+# DEMO
+* A short video presentation of the project 
+ TODO
 
 
