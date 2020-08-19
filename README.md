@@ -15,6 +15,7 @@ TODO
 * Python
 * Twitter Bootstrap(CSS Framework)
 * JQuery(JavaScript Library)
+* Media Query
 * Google Fonts
 * Ajax
 * JSON 
