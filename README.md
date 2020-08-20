@@ -17,6 +17,7 @@ TODO
 * JQuery(JavaScript Library)
 * Media Query
 * Google Fonts
+* CSS Grid
 * Ajax
 * JSON 
 * SQL
